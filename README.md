@@ -1,10 +1,10 @@
 # Miside-EnglishDub-AkumaVenom
 
-Attempt at creating an english voice dub version of Miside.
+English voice dub version of Miside.
 
-Currently a work in progress, Stay Tuned!
+Currently a work in progress.
 
-Made By AkumaVenom
+By AkumaVenom
 
 https://discord.gg/Uf8Q8usSmk
 
