@@ -1,0 +1,11 @@
+Randomize Seed (before generation) = TRUE
+
+Pitch Std = 200
+
+Speaking Rate = 16
+
+Linear = 0.82
+
+Confidence = 0.8
+
+Min P = 0.15
